@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Crud</string>
+    <string name="name">Nome</string>
+    <string name="price">Preço</string>
+    <string name="stock">Estoque</string>
+    <string name="category">Categoria</string>
+    <string name="photo">Foto</string>
+    <string name="select_image">Selecione uma imagem</string>
+    <string name="create">CRIAR</string>
+    <string name="name_product">Nome Produto</string>
+</resources>
